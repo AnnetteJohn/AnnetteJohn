@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I’m currently pursuing my Master's degree in Computer Science from the University of Calgary. My research is centered around the dynamic intersection of databases and network science. 
+I'm a seasoned software developer, having previously worked at Credit Suisse (UBS) in the Investment Banking and Operations departments and developed and contributed to mission-critical projects.
+🌱 I’m a passionate and results-driven individual with a keen interest in building products to solve problems. 
+⚡ I'm currently a Graduate Researcher at the ADSA Lab @ UCalgary. 
 <!--
 **AnnetteJohn/AnnetteJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
