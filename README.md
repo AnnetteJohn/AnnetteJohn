@@ -1,8 +1,12 @@
 ### Hi there 👋
 🔭 I’m currently pursuing my Master's degree in Computer Science from the University of Calgary. My research is centered around the dynamic intersection of databases and network science. 
 I'm a seasoned software developer, having previously worked at Credit Suisse (UBS) in the Investment Banking and Operations departments and developed and contributed to mission-critical projects.
-🌱 I’m a passionate and results-driven individual with a keen interest in building products to solve problems. 
+🌱 I’m a passionate and results-driven software engineer with a keen interest in building products to solve real-world problems. 
 ⚡ I'm currently a Graduate Researcher at the ADSA Lab @ UCalgary. 
+📫 How to reach me: Email- annettejohn31@gmail.com 
+👯 Let's collaborate if you have any ideas on software development so that we can bring them to life!
+⚡ Fun fact: I love cats and everything about them :))
+
 <!--
 **AnnetteJohn/AnnetteJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
