@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently pursuing my Master's degree in Computer Science from the University of Calgary. My research is centered around the dynamic intersection of databases and network science. 
+🔭 I’m currently pursuing my Master's degree in Computer Science from the University of Calgary. My research is centred around Deep Learning for Healthcare and Precision Medicine. I am currently working on applying Deep Learning techniques to enhance Digital Twins in Cancer treatment. 
 I'm a seasoned software developer, having previously worked at Credit Suisse (UBS) in the Investment Banking and Operations departments and developed and contributed to mission-critical projects.
 🌱 I’m a passionate and results-driven software engineer with a keen interest in building products to solve real-world problems. 
 ⚡ I'm currently a Graduate Researcher at the ADSA Lab @ UCalgary. 
